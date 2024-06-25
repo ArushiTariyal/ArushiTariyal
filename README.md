@@ -4,4 +4,5 @@
 - Deep Learning Frameworks: TensorFlow, PyTorch, Keras
 - Libraries & Tools: NumPy, Pandas, Scikit-learn
 - Background in: Mobile Application development (Android Studio), RDBMS, Data Science, Artificial Intelligence, and Machine Learning.
+- Basic Knowledge: HTML, CSS, JavaScript (Web Development)
 - 📫 To reach me: arushitadiyal@gmail.com
